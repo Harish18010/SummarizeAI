@@ -1,4 +1,4 @@
-# pdf_summarizer
+# PDF_Summarizer
 
 PDF Summarizer with Text  Audio Output (Using Colab)
 
