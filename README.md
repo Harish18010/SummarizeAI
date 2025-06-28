@@ -5,9 +5,9 @@ PDF Summarizer with Text  Audio Output (Using Colab)
 This is a simple Google Colab-based tool to help you **summarize long PDF files** using BART or DistilBART, and optionally convert those summaries into **spoken audio files** (MP3 format) using Google Text-to-Speech.
 
 You can choose from:
- **Brief** summaries (short and to the point)
- **Detailed** summaries (more thorough)
- **Bullet** summaries (for easy reading)
+-  **Brief** summaries (short and to the point)
+-  **Detailed** summaries (more thorough)
+ - **Bullet** summaries (for easy reading)
 
 ---
 
@@ -25,9 +25,9 @@ You can choose from:
 ##  Requirements
 
 Run this in **Google Colab**. The required libraries will be installed automatically:
-transformers 
-torch 
-gtts 
-pymupdf
+- transformers 
+- torch 
+- gtts 
+- pymupdf
 
 
